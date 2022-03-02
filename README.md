@@ -1,7 +1,10 @@
 ### keylogger
 A simple keylogger made with python.It stores the letters in the text file.
+### Disclaimer
+Don't use this for bad purposes.Don't hack anyone this is just for educational purposes.
 ### Download the exe 
-[Download](https://github.com/shourgamer2/keylogger/releases/download/version1.0.0/keylogger.exe)
+[Download](https://github.com/shourgamer2/keylogger/releases/download/version1.0.0/keylogger.exe) <br>
+It saves the letters in text file.
 ### Fork this repo
 ```sh
 git clone https://github.com/shourgamer2/keylogger
